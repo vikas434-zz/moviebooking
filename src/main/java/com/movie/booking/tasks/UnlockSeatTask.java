@@ -36,6 +36,7 @@ public class UnlockSeatTask {
             return;
         }
         seatList.forEach(s->{
+            //TODO update seat data every minute.
             // if(s.getCurrentStatus().equalsIgnoreCase(Status.))
         });
 
